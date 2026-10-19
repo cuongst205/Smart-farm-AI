@@ -1,0 +1,14 @@
+{
+  "class_to_idx": {
+    "benh_dom_den": 0,
+    "benh_dom_nau": 1,
+    "benh_thoi_re": 2,
+    "la_khoe_manh": 3
+  },
+  "classes": [
+    "benh_dom_den",
+    "benh_dom_nau",
+    "benh_thoi_re",
+    "la_khoe_manh"
+  ]
+}

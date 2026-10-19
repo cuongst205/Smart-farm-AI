@@ -1,0 +1,11 @@
+__pycache__/
+*.h5
+*.onnx
+static/uploads/
+venv/
+.vscode/
+*.db
+*.sqlite3
+.env
+local.properties
+.github-publish/
